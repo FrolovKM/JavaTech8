@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<somethings>
+    <something>
+        <name>Iron</name>
+        <high>25</high>
+        <wight>10</wight>
+        <depth>20</depth>
+        <power>mid</power>
+        <state>on</state>
+    </something>
+    <something>
+        <name>TV</name>
+        <high>250</high>
+        <wight>100</wight>
+        <depth>200</depth>
+        <power>small</power>
+        <state>off</state>
+    </something>
+    <something>
+        <name>Owen</name>
+        <high>150</high>
+        <wight>25</wight>
+        <depth>60</depth>
+        <power>big</power>
+        <state>on</state>
+    </something>
+    <something>
+        <name>Fridge</name>
+        <high>2500</high>
+        <wight>1090</wight>
+        <depth>60</depth>
+        <power>small</power>
+        <state>on</state>
+    </something>
+</somethings>
